@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * Method
+ */
+
 public class WhoWins {
     public static String whoWins_(){
         List horizTop = Arrays.asList(1,2,3);

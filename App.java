@@ -4,6 +4,7 @@ import java.util.*;
 
 public class App {
 
+
     static ArrayList<Integer> playerMoves = new ArrayList<>( );
     static ArrayList<Integer> computerMoves = new ArrayList<>( );
     public static void main(String[] args) {
@@ -11,6 +12,11 @@ public class App {
         char[][] boardGame =   {{'|', ' ', '_', ' ', '_', ' ', '_', ' ', '|'},
                 {'|', ' ', '_', ' ', '_', ' ', '_', ' ', '|'},
                 {'|', ' ', '_', ' ', '_', ' ', '_', ' ', '|'}};
+
+        /**
+         * Board Game
+         * @param
+         */
 
         PrintBoardGame print = new PrintBoardGame();
         MarkYourSpot mark = new MarkYourSpot();

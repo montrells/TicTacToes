@@ -1,6 +1,12 @@
 package com.montrell;
 public class MarkYourSpot {
 
+    /**
+     * Methods
+     * @param boardGame
+     * @param cell
+     * @param player
+     */
     public static void MarkYourSpots(char[][] boardGame, int cell, String player) {
         char choice = ' ';
         if (player.equals("player")) {
