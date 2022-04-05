@@ -1,4 +1,7 @@
-package com.montrell;
+package com.montrell.com.montrell;
+
+import com.montrell.com.montrell.App;
+
 public class MarkYourSpot {
 
     /**

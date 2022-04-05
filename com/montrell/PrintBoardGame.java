@@ -1,4 +1,4 @@
-package com.montrell;
+package com.montrell.com.montrell;
 
 public class PrintBoardGame {
     /**
